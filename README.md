@@ -18,6 +18,14 @@ Three.js SSRPass ( screen space reflection ) pr: https://github.com/mrdoob/three
 <br/>
 Example: https://threejs.org/examples/?q=ssr#webgl_postprocessing_ssr
 <br/>
+Demos: with
+[EnvMap](https://raw.githack.com/gonnavis/three.js/SSRPassWithEnvMapShared/examples/webgl_postprocessing_ssr.html)
+, [Physics](http://raw.githack.com/gonnavis/three.js/SSRPassExamples/examples/physics_ammo_volume_ssr.html)
+, [Complex Scene](http://raw.githack.com/gonnavis/three.js/SSRPassExamples/examples/webgl_animation_keyframes_ssr.html)
+, [Rig Anim](http://raw.githack.com/gonnavis/three.js/SSRPassExamples/examples/webgl_shading_physical_ssr.html)
+, [Selective](http://raw.githack.com/gonnavis/three.js/SSRPassExamples/examples/webgl_postprocessing_ssr_selective.html)
+, [OrthographicCamera](http://raw.githack.com/gonnavis/three.js/SSRPassExamples/examples/webgl_postprocessing_ssr_orthographicCamera.html)
+.
 ![image](https://user-images.githubusercontent.com/10785634/103439584-1f035d00-4c79-11eb-8a37-0214b66978f2.png)
 <br/>
 
