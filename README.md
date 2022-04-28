@@ -32,7 +32,9 @@ Demos: with
 
 Three.js SSRrPass ( screen space refraction ) pr: https://github.com/mrdoob/three.js/pull/21420
 <br/>
-Example: https://threejs.org/examples/?q=ssr#webgl_postprocessing_ssrr
+Demo: https://raw.githack.com/gonnavis/three.js/SSRrPassPr/examples/webgl_postprocessing_ssrr.html
+<br/>
+~Example: https://threejs.org/examples/?q=ssr#webgl_postprocessing_ssrr~
 <br/>
 ![image](https://user-images.githubusercontent.com/10785634/113124719-671a2780-9248-11eb-9afa-df3288ddd739.png)
 <br/>
