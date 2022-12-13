@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Three.js SSRPass ( screen space reflection ) pr: https://github.com/mrdoob/three.js/pull/20156
+Three.js SSRPass ( screen space reflection ) PR: https://github.com/mrdoob/three.js/pull/20156
 <br/>
 Example: https://threejs.org/examples/?q=ssr#webgl_postprocessing_ssr
 <br/>
@@ -30,7 +30,7 @@ Demos: with
 ![image](https://user-images.githubusercontent.com/10785634/103439584-1f035d00-4c79-11eb-8a37-0214b66978f2.png)
 <br/>
 
-Three.js SSRrPass ( screen space refraction ) pr: https://github.com/mrdoob/three.js/pull/21420
+Three.js SSRrPass ( screen space refraction ) PR: https://github.com/mrdoob/three.js/pull/21420
 <br/>
 ~Example: https://threejs.org/examples/?q=ssr#webgl_postprocessing_ssrr~ ([Removed](https://github.com/mrdoob/three.js/pull/23569))
 <br/>
@@ -39,15 +39,15 @@ Demo: https://raw.githack.com/gonnavis/three.js/SSRrPassPr/examples/webgl_postpr
 ![image](https://user-images.githubusercontent.com/10785634/113124719-671a2780-9248-11eb-9afa-df3288ddd739.png)
 <br/>
 
-Three.js SSShadowPass ( screen space shadow ) pr: https://github.com/mrdoob/three.js/pull/21951
+Three.js SSShadowPass ( screen space shadow ) PR: https://github.com/mrdoob/three.js/pull/21951
 <br/>
 Demo: https://raw.githack.com/gonnavis/three.js/SSShadowPassPr/examples/webgl_postprocessing_ssshadow.html
 <br/>
 ![image](https://user-images.githubusercontent.com/10785634/121066577-a17de300-c7fc-11eb-81b5-e38f4bb20153.png)
 <br/>
 
-Three.js Vector2.angle() performance pr: https://github.com/mrdoob/three.js/pull/18622
+Three.js Vector2.angle() performance PR: https://github.com/mrdoob/three.js/pull/18622
 <br/>
 
-All my prs: https://github.com/pulls?q=is:pr+author:gonnavis
+All my PRs: https://github.com/pulls?q=is:pr+author:gonnavis
 
