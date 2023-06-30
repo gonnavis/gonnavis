@@ -46,6 +46,8 @@ Demo: https://raw.githack.com/gonnavis/three.js/SSShadowPassPr/examples/webgl_po
 ![image](https://user-images.githubusercontent.com/10785634/121066577-a17de300-c7fc-11eb-81b5-e38f4bb20153.png)
 <br/>
 
+Derive `viewZToPerspectiveDepth` formula. https://twitter.com/gonnavis/status/1377183786949959682
+
 Three.js Vector2.angle() performance PR: https://github.com/mrdoob/three.js/pull/18622
 <br/>
 
